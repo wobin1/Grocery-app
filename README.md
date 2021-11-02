@@ -1,6 +1,6 @@
 # grocery_app
 
-A new Flutter project.
+A grocery app with sqflite database.
 
 ## Getting Started
 
