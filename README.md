@@ -1,6 +1,6 @@
 # grocery_app
 
-A grocery app with sqflite database.
+A grocery app with sqflite database built with flutter.
 
 ## Getting Started
 
